@@ -1,0 +1,37 @@
+.main{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.logo{
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+.right{
+    float: right;
+    display: block;
+    clear: both;
+}
+
+.left{
+    float: left;
+    display: block;
+    clear: both;
+}
+
+#send-container{
+    width: 50%;
+    margin: 15px auto;
+    text-align: center;
+    float: none;
+    clear: both;
+}
+
+.main{
+    height: 500px;
+    border: 2px solid black;
+    overflow-y: auto;
+}
